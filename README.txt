@@ -4,7 +4,7 @@ Fall 2019
 Homework Assignment 2
 
 This directory contains the following files:
-+--	HW2
++-- MiniMax-AI-Tic-Tac-Toe
 |	+--	board.in
 |	+--	board.out
 |	+--	board2.in
