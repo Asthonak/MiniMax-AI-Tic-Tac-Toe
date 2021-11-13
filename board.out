@@ -1,0 +1,46 @@
+move chosen: 0 0
+
+o..
+...
+...
+move chosen: 1 1
+
+o..
+.x.
+...
+move chosen: 0 1
+
+oo.
+.x.
+...
+move chosen: 0 2
+
+oox
+.x.
+...
+move chosen: 2 0
+
+oox
+.x.
+o..
+move chosen: 1 0
+
+oox
+xx.
+o..
+move chosen: 1 2
+
+oox
+xxo
+o..
+move chosen: 2 1
+
+oox
+xxo
+ox.
+move chosen: 2 2
+
+oox
+xxo
+oxo
+Game is a draw!
